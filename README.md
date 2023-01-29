@@ -1,6 +1,7 @@
 # TicTacToe
 This game is built using oops concept of java.
 <h1> Output </>
+  <p>
 Enter Player 1 name : 
 seju
 Enter Player 1 symbol : 
@@ -72,3 +73,4 @@ ________________
 Player 2 - gautam wins !!
 
 Process finished with exit code 0
+</p>
